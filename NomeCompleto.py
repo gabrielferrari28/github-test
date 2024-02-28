@@ -1,1 +1,0 @@
-print("Vitorio Waldemarin Bearari")
